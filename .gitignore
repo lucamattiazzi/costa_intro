@@ -1,0 +1,4 @@
+.venv
+.vscode
+episodes/*.mp3
+results/*.mp3.json
